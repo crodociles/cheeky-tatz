@@ -1,0 +1,287 @@
+/*==========
+TYPOGRAPHY
+==========*/
+.heading{
+	font-size: 22px;
+	text-align: center;
+	line-height: 50px
+}
+.login-text{
+	color:#666;
+	font-size: 13pt;
+}
+h1{
+	font-family: 'Teko', sans-serif;
+	text-align: center;
+}
+p{
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-size: 16pt;
+	font-weight: 300;
+}
+
+/*==========
+LAYOUT
+==========*/
+
+body{
+	font-family: 'Teko', sans-serif;
+	font-size: 16pt;
+	font-weight: 300;
+}
+.col-back{
+	padding: 0 20px;
+	border-right:3px solid black;
+	border-left:3px solid black;
+}
+.col-border{
+	padding: 0 3px;
+	border-right:2px solid black;
+	border-left:2px solid black;
+}
+.container{
+	margin-bottom: 20px;
+}
+.col-height{
+	min-height: 500px
+}
+/*==========
+NAV
+==========*/
+
+.navbar{
+	background: white;
+	border-radius:0;
+	border-right:3px solid black;
+	border-left:3px solid black;
+}
+a:hover{
+	text-decoration: none;
+	color: #000;
+}
+.navbar-buttons{
+	display: inline-block;
+	float: right;text-align: right;
+}
+#searchbar{
+	margin-top: 20px;
+	display: inline-block;
+}
+.navbar-btn{
+	margin-right: 20px;
+}
+#nav-border{
+	padding: 0 3px;
+	border-left: 2px solid black;
+	border-right: 2px solid black;
+}
+#log-in-btn{
+	font-family: 'Teko', sans-serif;
+	font-size: 15pt; 
+}
+#navbar-soc-m{
+	position: absolute;
+	top:20px; right: -50px;
+	width: 40px;
+	padding: 5px;
+}
+
+/*==========
+NAV SOCIAL
+==========*/
+
+.fa-instagram{
+	transition:color 0.3s;
+}
+.fa-instagram:hover{
+	color:#428bca;
+}
+.fa-twitter{
+	transition:color 0.3s;
+}
+.fa-twitter:hover{
+	color:#55acee;
+}
+.fa-facebook-official{
+	transition:color 0.3s;
+}
+.fa-facebook-official:hover{
+	color:#3b5998;
+}
+
+/*==========
+NAV LOGO
+==========*/
+
+.title-capital:hover{
+	color: #9B25EE;
+}
+.title-red:hover{
+	color:#ff0000;
+}
+.title-yellow:hover{
+	color:#ffff00;
+}
+.title-green:hover{
+	color:#00ff00;
+}
+.title-pink:hover{
+	color:#ff00ff;
+}
+.title-blue:hover{
+	color:#0000ff;
+}
+.brand{
+	display: inline-block;
+	margin: 5px 0 0 20px;
+}
+.logo{
+	font-size: 50pt;
+	font-family: 'Teko', sans-serif;
+	color:#000;
+	vertical-align: middle;
+}
+
+
+/*==========
+SEARCHBAR
+==========*/
+
+#livesearch{
+	width: 225px;
+	position: absolute;
+	top: 35px;
+	right: 40px;
+	background-color: white;
+	z-index: 99;
+}
+.suggestion{
+	border: 0.5px solid #777;
+	text-align: center;
+}
+.suggestion-img{
+	height: 40px; width: 40px;
+	margin: 3px;
+}
+.suggestion-link{
+	text-align: left;
+	margin-left: 10px;
+	width: 60%;
+}
+a{
+	font-family: 'Slabo 27px';
+	color: #000;
+}
+
+/*==========
+FOOTER BAR
+==========*/
+
+#foot-bar{
+	background: linear-gradient(#9b25ee, #3e0e5f);
+	box-shadow: 0 -3px 5px 0 #000;
+	border-bottom-right-radius: 0;
+	border-bottom-left-radius: 0;
+	margin: 20px auto 0 auto;
+	width: 72%;
+}
+
+/*==========
+WELCOME
+==========*/
+
+#welcome-images{
+	text-align: center;
+}
+#welcome-images > img{
+	margin: 5px 20px 10px 0;
+	background-color:#ddd;
+	box-shadow: 0;
+	transition: box-shadow 0.4s;
+}
+.welcome-img{
+	height:350px; width:350px;	
+}
+
+/*==========
+PRODUCTS
+==========*/
+
+.products>ul{
+	list-style-type: none;
+}
+
+/*==========
+MENU
+==========*/
+
+#menu{
+	margin: auto;
+	height: 60px;
+	width: 100%;
+	border-radius: 0;
+	z-index: 99;
+	font-size:30pt;
+	text-align: center;
+}
+.list-inline>li{
+	width:19%;
+	border: 1px solid #ccc;
+	box-shadow: 2px 2px 0 0 #ccc;
+}
+.list-inline>li:hover{
+	background-color:#fcfcfc;
+}
+.list-inline>li:active{
+	background-color:#f3f3f3;
+	box-shadow: 0 0 0 0;
+}
+a{
+	font-family: 'Teko', sans-serif;
+}
+.list-inline>li>a{
+	display: block;
+}
+
+/*==========
+FAQ
+==========*/
+
+.faq-list{
+	list-style: none;
+}
+.faq-q{
+	margin:  70px 40px;
+}
+.faq-q>h4{
+	font-size: 18pt;
+}
+
+/*==========
+SEARCH RESULTS
+==========*/
+
+.results-row{
+	border-left: 3px solid black;
+	border-right: 3px solid black;
+	margin:20px 0;
+	height: 100px;
+}
+.results-border{
+	border-left: 2px solid black;
+	border-right: 2px solid black;
+	padding: 0 3px;
+}
+.results-img{
+	height: 100px;
+	margin: 0 15px
+}
+.results-title{
+	font-size: 20pt;
+}
+.results-info-btn{
+	margin: 30px 0;
+}
+/*==========
+PRODUCT PAGE
+==========*/

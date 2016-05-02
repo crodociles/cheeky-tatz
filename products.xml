@@ -1,0 +1,245 @@
+<cheekytatz>
+    <products>
+        <id>1</id>
+        <name> Bunny tattoo stencil</name>
+        <price>0.25</price>
+        <height>50</height>
+        <width>50</width>
+        <category>easter</category>
+        <pageadd>bunny-tattoo-stencil</pageadd>
+    </products>
+    <products>
+        <id>2</id>
+        <name> Chick in Egg tattoo stencil</name>
+        <price>0.25</price>
+        <height>50</height>
+        <width>45</width>
+        <category>easter</category>
+        <pageadd>chick-in-egg-tattoo-stencil</pageadd>
+    </products>
+    <products>
+        <id>3</id>
+        <name> Chick tattoo stencil</name>
+        <price>0.25</price>
+        <height>50</height>
+        <width>30</width>
+        <category>easter</category>
+        <pageadd>chick-tattoo-stencil</pageadd>
+    </products>
+    <products>
+        <id>4</id>
+        <name> Daffodil tattoo stencil</name>
+        <price>0.25</price>
+        <height>70</height>
+        <width>40</width>
+        <category>easter</category>
+        <pageadd>daffodil-tattoo-stencil</pageadd>
+    </products>
+    <products>
+        <id>5</id>
+        <name> Easter Chick tattoo stencil</name>
+        <price>0.25</price>
+        <height>50</height>
+        <width>30</width>
+        <category>easter</category>
+        <pageadd>easter-chick-tattoo-stencil</pageadd>
+    </products>
+    <products>
+        <id>6</id>
+        <name> Easter Eggs tattoo stencil</name>
+        <price>0.25</price>
+        <height>50</height>
+        <width>40</width>
+        <category>easter</category>
+        <pageadd>easter-eggs-tattoo-stencil</pageadd>
+    </products>
+    <products>
+        <id>7</id>
+        <name> Rabbit tattoo stencil</name>
+        <price>0.25</price>
+        <height>60</height>
+        <width>30</width>
+        <category>easter</category>
+        <pageadd>rabbit-tattoo-stencil</pageadd>
+    </products>
+    <products>
+        <id>8</id>
+        <name> Easter Chick Reusable Stencil</name>
+        <price>3</price>
+        <height>40</height>
+        <width>25</width>
+        <category>easter</category>
+        <pageadd>easter-chick-reusable-stencil</pageadd>
+    </products>
+    <products>
+        <id>9</id>
+        <name> Easter Egg Reusable Heart Shaped Stencil</name>
+        <price>4</price>
+        <height>115</height>
+        <width>100</width>
+        <category>easter</category>
+        <pageadd>e-egg-reusable-heart-shaped-stencil</pageadd>
+    </products>
+    <products>
+        <id>10</id>
+        <name> Easter Egg Reusable Stencil</name>
+        <price>3</price>
+        <height>30</height>
+        <width>40</width>
+        <category>easter</category>
+        <pageadd>e-egg-reusable-stencil</pageadd>
+    </products>
+    <products>
+        <id>11</id>
+        <name> Bat Tattoo Stencil</name>
+        <price>0.25</price>
+        <height>50</height>
+        <width>20</width>
+        <category>halloween</category>
+        <pageadd>bat-tattoo-stencil</pageadd>
+    </products>
+    <products>
+        <id>12</id>
+        <name> Bat Tattoo Stencil 2</name>
+        <price>0.25</price>
+        <height>60</height>
+        <width>20</width>
+        <category>halloween</category>
+        <pageadd>bat-tattoo-stencil-2</pageadd>
+    </products>
+    <products>
+        <id>13</id>
+        <name> Carved Pumpkin Tattoo Stencil</name>
+        <price>0.25</price>
+        <height>40</height>
+        <width>40</width>
+        <category>halloween</category>
+        <pageadd>carved-pumpkin-tattoo-stencil</pageadd>
+    </products>
+    <products>
+        <id>14</id>
+        <name> Castle Tattoo Stencil</name>
+        <price>0.25</price>
+        <height>55</height>
+        <width>70</width>
+        <category>halloween</category>
+        <pageadd>castle-tattoo-stencil</pageadd>
+    </products>
+    <products>
+        <id>15</id>
+        <name> Cat Tattoo Stencil</name>
+        <price>0.25</price>
+        <height>40</height>
+        <width>50</width>
+        <category>halloween</category>
+        <pageadd>cat-tattoo-stencil</pageadd>
+    </products>
+    <products>
+        <id>16</id>
+        <name> Ghost Tattoo Stencil</name>
+        <price>0.25</price>
+        <height>25</height>
+        <width>50</width>
+        <category>halloween</category>
+        <pageadd>ghost-tattoo-stencil</pageadd>
+    </products>
+    <products>
+        <id>17</id>
+        <name> Ghost Tattoo Stencil 2</name>
+        <price>0.25</price>
+        <height>50</height>
+        <width>60</width>
+        <category>halloween</category>
+        <pageadd>ghost-tattoo-stencil-2</pageadd>
+    </products>
+    <products>
+        <id>18</id>
+        <name> Graveyard Tattoo Stencil</name>
+        <price>0.25</price>
+        <height>110</height>
+        <width>60</width>
+        <category>halloween</category>
+        <pageadd>graveyard-tattoo-stencil</pageadd>
+    </products>
+    <products>
+        <id>19</id>
+        <name> Grim Reaper tattoo stencil</name>
+        <price>0.25</price>
+        <height>65</height>
+        <width>75</width>
+        <category>halloween</category>
+        <pageadd>grim-reaper-tattoo-stencil</pageadd>
+    </products>
+    <products>
+        <id>20</id>
+        <name> Pumpkin Tattoo Stencil</name>
+        <price>0.25</price>
+        <height>40</height>
+        <width>35</width>
+        <category>halloween</category>
+        <pageadd>pumpkin-tattoo-stencil</pageadd>
+    </products>
+    <products>
+        <id>21</id>
+        <name> Witch Tattoo Stencil</name>
+        <price>0.25</price>
+        <height>50</height>
+        <width>45</width>
+        <category>halloween</category>
+        <pageadd>witch-tattoo-stencil</pageadd>
+    </products>
+    <products>
+        <id>22</id>
+        <name> Witch Tattoo Stencil 2</name>
+        <price>0.25</price>
+        <height>70</height>
+        <width>60</width>
+        <category>halloween</category>
+        <pageadd>witch-tattoo-stencil-2</pageadd>
+    </products>
+    <products>
+        <id>23</id>
+        <name> Bats Reusable Stencil</name>
+        <price>3</price>
+        <height>60</height>
+        <width>40</width>
+        <category>halloween</category>
+        <pageadd>bats-reusable-stencil</pageadd>
+    </products>
+    <products>
+        <id>24</id>
+        <name> Bats Reusable stencil 2</name>
+        <price>3</price>
+        <height>90</height>
+        <width>45</width>
+        <category>halloween</category>
+        <pageadd>bats-reusable-stencil-2</pageadd>
+    </products>
+    <products>
+        <id>25</id>
+        <name> Cat Hissing Reusable Stencil</name>
+        <price>3</price>
+        <height>45</height>
+        <width>50</width>
+        <category>halloween</category>
+        <pageadd>cat-hissing-reusable-stencil</pageadd>
+    </products>
+    <products>
+        <id>26</id>
+        <name> Cat Reusable Stencil</name>
+        <price>3</price>
+        <height>35</height>
+        <width>40</width>
+        <category>halloween</category>
+        <pageadd>cat-reusable-stencil</pageadd>
+    </products>
+    <products>
+        <id>27</id>
+        <name> Ghosts Reusable Stencil</name>
+        <price>3</price>
+        <height>40</height>
+        <width>35</width>
+        <category>halloween</category>
+        <pageadd>ghosts-reusable-stencil</pageadd>
+    </products>
+</cheekytatz>
